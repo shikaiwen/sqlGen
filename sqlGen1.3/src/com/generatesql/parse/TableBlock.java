@@ -3,12 +3,11 @@ package com.generatesql.parse;
 import java.util.List;
 
 public class TableBlock {
-
+//哈哈哈哈哈
 	private String tableName;
 	private String alias;
 	private List<String> useCols;
 	private List<String> notUseCols;
-	
 	
 	
 	public String getTableName() {
