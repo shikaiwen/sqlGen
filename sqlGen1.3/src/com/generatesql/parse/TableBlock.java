@@ -8,6 +8,9 @@ public class TableBlock {
 	private String alias;
 	private List<String> useCols;
 	private List<String> notUseCols;
+	
+	
+	
 	public String getTableName() {
 		return tableName;
 	}
